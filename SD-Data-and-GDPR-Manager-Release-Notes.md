@@ -548,10 +548,6 @@ Profiler: 
 
 -  Documentation fixes.
 
-### 1.0.1
-
-#### Enhancements
-
 - Linkbox - Created an XmlPort for setting up control Add-in. 
 
 - Profiler - Refactored the object selection. Rewrote the reports to loop on the questions and do basic formatting of them. 
