@@ -546,7 +546,7 @@ Profiler: 
 
 #### Enhancements
 
--  Documentation fixes.
+- Documentation fixes.
 
 - Linkbox - Created an XmlPort for setting up control Add-in. 
 
