@@ -4,8 +4,6 @@
 
 #### Enhancements
 
-- BCV19 App - Translation units were synchronized. 
-
 - BCv19 App - Added the Latest Version of the product and the AppSource URL to the About Page. 
 
 - BCv19 App - Added the Latest ISV Licence Control with fix to Free Trials in Public Environments. 
