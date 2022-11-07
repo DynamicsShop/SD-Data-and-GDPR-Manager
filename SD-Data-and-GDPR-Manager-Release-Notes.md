@@ -1,5 +1,27 @@
 ## SD Data and GDPR Manager Releases
 
+### 3.1.0
+
+#### Enhancements
+
+- BCv21 App - Added the Latest ISV Licence Control to SD Data and GDPR Manager.
+
+- BCv21 App - The Product Activation Page was updated to point to the new CRM URL.
+
+- BCv21 App - The Licence Expiry message/notification was updated to display the App Name as part of the message.
+
+- BCv21 App - A page was created to display all the Simply Dynamics Apps and subscription details for the tenant.
+
+- BCv21 App - The Licence Message displayed on first install of SD Data and GDPR Manager was changed to prompt the user to activate a free trial and to choose Assisted Setup from the Setup Card to create demo data.
+
+- BCv21 App - The links in the About Page were updated to point to new URLs.
+
+- BCv21 App - The ToolTips were updated to look at our new website.
+
+#### Bug Fixes
+
+- BCv21 App - A fix was made to the code for licence key checks on the SD Data and GDPR Manager Role Centre. 
+
 ### 3.0.1
 
 #### Enhancements
