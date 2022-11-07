@@ -18,6 +18,8 @@
 
 - BCv21 App - The ToolTips were updated to look at our new website.
 
+- BCv21 App - The SD Data and GDPR Manager Permissions XML file was replaced with AL permission objects and the names were standardised to our ISV format.
+
 #### Bug Fixes
 
 - BCv21 App - A fix was made to the code for licence key checks on the SD Data and GDPR Manager Role Centre. 
