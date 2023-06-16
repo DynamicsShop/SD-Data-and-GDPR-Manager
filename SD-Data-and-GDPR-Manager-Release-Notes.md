@@ -1,5 +1,21 @@
 ## SD Data and GDPR Manager Releases
 
+### 3.1.1
+
+#### Enhancements
+
+- AppSource App - AppSource App - A notification was added to SD Data and GDPR Manager pages to show users that they need to activate the licence on first install of the App.
+
+- AppSource App - A change was made to limit the SD ISV Tenant Subscriptions page to display just our SD ISV AppSource Apps and not other SD PTE Apps.
+
+#### Bug Fixes
+
+- AppSource App - A change was made to the ISV Licence Notification procedure in SD Data and GDPR Manager to fix an issue that would raise an error when the language is changed from English to another language.
+
+- AppSource App - An error will raise in the Assisted Setup import if non sequential enum values exist in the imported data. This was fixed.
+
+- AppSource App - When selecting SD Data and GDPR Manager activity pages in the Tell Me/Search in a BCv22 environment, the activity pages were hanging.
+
 ### 3.1.0
 
 #### Enhancements
