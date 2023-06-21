@@ -10,7 +10,7 @@
 
 #### Bug Fixes
 
-- AppSource App - An error was raised on encryption of fields that "A call to System.Security.Cryptography...failed with this error message...". SD Data and GDPR Manager was using block size of 256 this has been restricted to 128 by Business Central.
+- AppSource App - An error was raised on encryption of fields that "A call to System.Security.Cryptography...failed with this error message...". SD Data and GDPR Manager was using block size of 256 this has been restricted to 128 by Business Central in BCv22.
 
 - AppSource App - A change was made to the ISV Licence Notification procedure in SD Data and GDPR Manager to fix an issue that would raise an error when the language is changed from English to another language.
 
