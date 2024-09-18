@@ -1,5 +1,17 @@
 ## SD Data and GDPR Manager Releases
 
+### 3.1.2
+
+#### Enhancements
+
+- AppSource App - User Groups are retired in 2024 release wave 2 and are replaced with Security Groups. The Rule Card was updated to use Security Groups.
+
+- AppSource App - A change was made to the Assisted Setup functionality.
+
+- AppSource App - The links in the About page were updated.
+
+- AppSource App - The logo in the App was updated to the new logo.
+
 ### 3.1.1
 
 #### Enhancements
