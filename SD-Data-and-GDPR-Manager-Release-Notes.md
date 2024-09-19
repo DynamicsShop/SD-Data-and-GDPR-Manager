@@ -10,8 +10,6 @@
 
 - AppSource App - The links in the About page were updated.
 
-- AppSource App - The logo in the App was updated to the new logo.
-
 ### 3.1.1
 
 #### Enhancements
