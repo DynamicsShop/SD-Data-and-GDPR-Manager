@@ -14,7 +14,7 @@
 
 - AppSource App - A new action was added to the Setup Card called View Our Apps. This action opens a page on AppSource pointing to all our Simply Dynamics Ltd apps.
 
-- AppSource App - A new link was added to the user guide on the DynamicsShop page.
+- AppSource App - A new link to the user guide on the DynamicsShop page was added to the About page.
 
 - AppSource App - A minor change was made to the Product Activation page.
 
@@ -639,6 +639,7 @@ Profiler: 
 - Cleaned up the objects. 
 
 - Code upgraded to 2016.
+
 
 
 
