@@ -1,5 +1,19 @@
 ## SD Data and GDPR Manager Releases
 
+### 3.2.1
+
+#### Enhancements
+
+- Telemetry was added to log when core functions of SD Data and GDPR Manager check the validity of the product licence.
+
+- The link in the View Our Apps action on the Setup Card was updated.
+
+- The Manage Subscriptions Page, accessed from the Setup Card, was updated.
+
+- The notification prompting users to activate a free trial of SD Data and GDPR Manager on a fresh install has been limited to display no more than once per hour on standard role centres.
+
+- An update was made to the message displayed on the Activation page on initial installation of the App.
+
 ### 3.2.0
 
 #### Enhancements
